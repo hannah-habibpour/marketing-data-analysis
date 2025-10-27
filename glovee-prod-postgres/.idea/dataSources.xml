@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="glovee-postgres-prod@app-3f535810-7e49-4b71-8871-685cb7d8abd4-do-user-16418646-0.c.db.ondigitalocean.com" uuid="2894ca68-7f66-488d-848f-713f97f26b26">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://app-3f535810-7e49-4b71-8871-685cb7d8abd4-do-user-16418646-0.c.db.ondigitalocean.com:25060/glovee-postgres-prod</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="glovee-aws-db" uuid="e9c3236f-a3a1-468a-a124-f4e529cb53af">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://glovee-ca-centra-1-postgres.c98aawua8nwr.ca-central-1.rds.amazonaws.com:5432/glovee</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@localhost" uuid="78467a1a-8373-41ec-aaf3-54af6fed5a41">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5431/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
