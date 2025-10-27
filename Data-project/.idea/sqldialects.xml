@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/customer_analysis.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/fact_customer_reviews.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/fact_engagement_data.sql" dialect="TSQL" />
   </component>
 </project>
