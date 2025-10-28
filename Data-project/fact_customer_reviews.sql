@@ -1,5 +1,3 @@
-use PortfolioProject_MarketingAnalytics
-
 -- Query to clean whitespace issues in the ReviewText column
 
 SELECT
