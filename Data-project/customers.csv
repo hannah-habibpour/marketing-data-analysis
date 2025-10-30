@@ -1,0 +1,101 @@
+CustomerID,GeographyID,Gender,AgeGroup
+1,2,MALE,Middle-Aged
+2,4,FEMALE,Adult
+3,6,FEMALE,Adult
+4,8,MALE,Adult
+5,4,FEMALE,Adult
+6,7,MALE,Adult
+7,7,MALE,Adult
+8,8,FEMALE,Young Adult
+9,10,MALE,Adult
+10,2,FEMALE,Middle-Aged
+11,10,MALE,Middle-Aged
+12,7,FEMALE,Adult
+13,1,MALE,Middle-Aged
+14,4,MALE,Middle-Aged
+15,9,MALE,Adult
+16,5,MALE,Adult
+17,2,FEMALE,Middle-Aged
+18,5,FEMALE,Adult
+19,6,FEMALE,Adult
+20,1,MALE,Young Adult
+21,4,FEMALE,Adult
+22,2,MALE,Middle-Aged
+23,5,FEMALE,Adult
+24,5,MALE,Adult
+25,5,MALE,Adult
+26,1,MALE,Adult
+27,1,MALE,Young Adult
+28,9,FEMALE,Young Adult
+29,5,FEMALE,Adult
+30,7,FEMALE,Adult
+31,10,MALE,Adult
+32,4,FEMALE,Adult
+33,4,MALE,Young Adult
+34,3,MALE,Middle-Aged
+35,2,FEMALE,Middle-Aged
+36,3,FEMALE,Middle-Aged
+37,2,FEMALE,Adult
+38,4,MALE,Adult
+39,5,FEMALE,Middle-Aged
+40,2,FEMALE,Senior
+41,2,MALE,Middle-Aged
+42,1,FEMALE,Senior
+43,8,MALE,Middle-Aged
+44,9,FEMALE,Middle-Aged
+45,5,FEMALE,Adult
+46,4,MALE,Middle-Aged
+47,6,MALE,Senior
+48,7,FEMALE,Middle-Aged
+49,4,FEMALE,Middle-Aged
+50,3,MALE,Adult
+51,10,FEMALE,Middle-Aged
+52,9,FEMALE,Adult
+53,2,FEMALE,Young Adult
+54,5,FEMALE,Young Adult
+55,1,FEMALE,Middle-Aged
+56,9,FEMALE,Senior
+57,4,MALE,Middle-Aged
+58,10,MALE,Adult
+59,6,FEMALE,Adult
+60,6,MALE,Middle-Aged
+61,2,FEMALE,Senior
+62,8,MALE,Middle-Aged
+63,9,MALE,Adult
+64,7,FEMALE,Middle-Aged
+65,5,FEMALE,Adult
+66,8,FEMALE,Young Adult
+67,4,FEMALE,Middle-Aged
+68,6,FEMALE,Middle-Aged
+69,4,MALE,Adult
+70,7,FEMALE,Adult
+71,5,FEMALE,Adult
+72,8,FEMALE,Adult
+73,4,MALE,Adult
+74,1,MALE,Adult
+75,6,FEMALE,Adult
+76,10,FEMALE,Adult
+77,4,MALE,Middle-Aged
+78,8,FEMALE,Young Adult
+79,6,FEMALE,Adult
+80,6,FEMALE,Adult
+81,9,MALE,Adult
+82,1,MALE,Adult
+83,9,MALE,Young Adult
+84,4,FEMALE,Adult
+85,7,MALE,Senior
+86,10,MALE,Middle-Aged
+87,4,MALE,Adult
+88,3,MALE,Adult
+89,8,MALE,Young Adult
+90,1,MALE,Middle-Aged
+91,4,FEMALE,Middle-Aged
+92,1,FEMALE,Senior
+93,4,FEMALE,Adult
+94,7,MALE,Middle-Aged
+95,2,MALE,Adult
+96,10,FEMALE,Adult
+97,3,FEMALE,Middle-Aged
+98,10,FEMALE,Middle-Aged
+99,5,MALE,Adult
+100,10,FEMALE,Middle-Aged
