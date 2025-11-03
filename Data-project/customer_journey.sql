@@ -1,0 +1,1 @@
+select * from dbo.customer_journey
